@@ -27,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Zachris_Topelius
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
 description: Translation of "Sägner i dimman".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38651#Talvi-iltain-tarinoita-5Sumutarinoita.
 gutenberg_issued: '2012-01-23'
 gutenberg_type: Text
 identifiers:
