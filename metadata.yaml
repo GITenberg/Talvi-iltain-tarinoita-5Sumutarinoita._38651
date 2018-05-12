@@ -1,0 +1,44 @@
+_repo: Talvi-iltain-tarinoita-5Sumutarinoita._38651
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Jäämaa, Ilmari
+    aliases:
+    - Ilmari Jäämaa
+    - Jaamaa, Ilmari
+    gutenberg_agent_id: '39420'
+    url: http://www.gutenberg.org/2009/agents/39420
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Zakris
+    - Topelius, Zakarias
+    - Topelius, Zachris
+    - Topelius, Sakarias
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+description: Translation of "Sägner i dimman".
+gutenberg_issued: '2012-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38651'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: 'Talvi-iltain tarinoita 5
+
+  Sumutarinoita.'
+url: http://www.gutenberg.org/ebooks/38651
